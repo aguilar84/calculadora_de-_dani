@@ -1,0 +1,10 @@
+Nombre = input("pon tu nombre: ")
+numero1 = int(input("ingrese el primer numero: "))
+numero2 = int(input("ingrese el segundo numero: "))
+
+print("hola ",Nombre)
+print("---RESULTADO---")
+print("suma: ", numero1 + numero2)
+print("resta: ", numero1 - numero2)
+print("multiplicacion: ", numero1 * numero2)
+print("division: ", numero1 / numero2)
